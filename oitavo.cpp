@@ -2,6 +2,9 @@
 
 using namespace std;
 
+//Vetores
+
+
 int main(){
     // Alocação Estática
 
