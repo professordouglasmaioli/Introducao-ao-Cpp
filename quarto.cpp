@@ -2,6 +2,8 @@
 
 using namespace std;
 
+//Funções e Define
+
 //int t;
 
 #define pi 3.14;
