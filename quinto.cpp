@@ -2,6 +2,8 @@
 
 using namespace std;
 
+//IF/ELSE - AND/OR/NOT
+
 int main(){
     float nota1, nota2;
     cout << "Informe a Nota 1\n";
