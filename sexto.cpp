@@ -2,6 +2,8 @@
 
 using namespace std;
 
+//Estruturas de Repetição - While / Do-While / For
+
 int main(){
     int n;
     cout << "Diga um numero inteiro nao negativo\n";
