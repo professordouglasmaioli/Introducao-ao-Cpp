@@ -2,6 +2,8 @@
 
 using namespace std;
 
+//Variáveis e Entradas
+
 int main(){
     int inteiro;
     inteiro = 5;
