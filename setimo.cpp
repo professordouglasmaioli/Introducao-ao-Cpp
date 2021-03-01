@@ -3,6 +3,9 @@
 
 using namespace std;
 
+//Ponteiros
+
+
 int main(){
     int var1;
     int* pont1;
