@@ -2,7 +2,7 @@
 
 using namespace std;
 
-/Variáveis e Entradas
+//Variáveis e Entradas
 
 int main(){
     int inteiro;
