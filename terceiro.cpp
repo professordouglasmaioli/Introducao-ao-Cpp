@@ -3,6 +3,8 @@
 
 using namespace std;
 
+//Operadores Matemáticos
+
 int main(){
     int a=5, b=2;
 
