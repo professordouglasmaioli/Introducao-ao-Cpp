@@ -3,8 +3,8 @@
 using namespace std;
 
 int main(){
-    int* idade1 = new int;
-    int* idade2 = new int;
+    float* idade1 = new float;
+    float* idade2 = new float;
     cout << "Qual e a idade da primeira pessoa?\n";
     cin >> *idade1;
     cout << "Qual e a idade da segunda pessoa?\n";
